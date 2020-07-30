@@ -2,7 +2,7 @@
 
 I professionally specialize in the .NET & JavaScript ecosystems, but am a massive enthusiast of less popular languages on my own time such as Rust and OCaml.
 
-[![Resume](https://user-images.githubusercontent.com/10255546/88966946-1e563d00-d27b-11ea-8261-3ee7b1330cd9.png)](https://knyzorg.github.io/Resume/)
+[![Resume](https://user-images.githubusercontent.com/10255546/88966946-1e563d00-d27b-11ea-8261-3ee7b1330cd9.png) Full Resume](https://knyzorg.github.io/Resume/)
 
 
 <!--
