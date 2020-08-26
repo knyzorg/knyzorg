@@ -1,21 +1,12 @@
-# Hi there 👋
+# Greetings,
 
-I professionally specialize in the .NET & JavaScript ecosystems, but am a massive enthusiast of less popular languages on my own time such as Rust and OCaml.
+I’m Slava. I’m a Software Developer living in Ottawa. I practice my trade both professionally and in my spare time.
 
-[![Resume](https://user-images.githubusercontent.com/10255546/88966946-1e563d00-d27b-11ea-8261-3ee7b1330cd9.png) Full Resume](https://knyzorg.github.io/Resume/)
+Reach me via 
+ - [Email <img width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/147_Gmail_logo_logos-256.png" />](mailto:slava@knyazev.io)
+ - [Telegram <img width="32px" src="https://cdn2.iconfinder.com/data/icons/social-flat-buttons-3/512/telegram-256.png" />](t.me/knyzorg)
 
-
-<!--
-**knyzorg/knyzorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find me on
+ - [LinkedIn <img width="32px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />](https://www.linkedin.com/in/slava-knyazev/)
+ - [StackOverflow <img width="32px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-256.png" />](https://stackoverflow.com/users/4088472/slava-knyazev)
+ 
