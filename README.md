@@ -1,8 +1,6 @@
 # Greetings,
 
 I’m Slava. I’m a Software Developer living in Ottawa. I practice my trade both professionally and in my spare time.
-
-![Some stats](https://github-readme-stats.vercel.app/api?username=knyzorg&show_icons=true&hide_rank=false&include_all_commits=true&count_private=true)
  
 ## Reach me via 
  - [Email <img width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/147_Gmail_logo_logos-256.png" />](mailto:slava@knyazev.io)
