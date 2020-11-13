@@ -1,6 +1,8 @@
 # Greetings,
 
-I’m Slava. I’m a Software Developer living in Ottawa. I have good ideas sometimes.
+I’m Slava. I’m a Software Developer living in Ottawa.
+
+Sometimes I have good ideas.
  
 ## Reach me via 
  - [Email <img width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/147_Gmail_logo_logos-256.png" />](mailto:slava@knyazev.io)
