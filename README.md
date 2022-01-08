@@ -14,5 +14,5 @@ Sometimes I have good ideas.
  
 ## Check out my
  - [Website <img width="32px" src="https://cdn0.iconfinder.com/data/icons/3-colors-outline/500/Browser-512.png" />](https://knyazev.io)
- - [Blog <img width="32px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/43-rss-512.png" />](https://knyz.org)
+ - [Blog <img width="32px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/43-rss-512.png" />](https://bbss.dev)
  
