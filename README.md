@@ -1,18 +1,31 @@
-# Greetings,
+# Hey 👋
 
-I’m Slava. I’m a Software Developer living in Ottawa.
+I’m Slava -- a JavaScript Developer by day, and a .NET enthusiast by night.
 
-Sometimes I have good ideas.
- 
-## Reach me via 
- - [Email <img width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/147_Gmail_logo_logos-256.png" />](mailto:slava@knyazev.io)
- - [Telegram <img width="32px" src="https://cdn2.iconfinder.com/data/icons/social-flat-buttons-3/512/telegram-256.png" />](https://t.me/knyzorg)
+### Learn more about me: https://knyazev.io 
 
-## Find me on
- - [LinkedIn <img width="32px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />](https://www.linkedin.com/in/slava-knyazev/)
- - [StackOverflow <img width="32px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-256.png" />](https://stackoverflow.com/users/4088472/slava-knyazev)
- 
-## Check out my
- - [Website <img width="32px" src="https://cdn0.iconfinder.com/data/icons/3-colors-outline/500/Browser-512.png" />](https://knyazev.io)
- - [Blog <img width="32px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/43-rss-512.png" />](https://bbss.dev)
- 
+### Read my work: https://bbss.dev 
+
+# Today
+
+I am a **Front-End Engineer II** at **Amazon Web Services**. On the side, I am currently working on a couple side-projects:
+
+### Pixel-Perfect
+
+A Cloud-Native clone of Chromatic/Happo/Percy with some fresh ideas of my own.
+
+### ExtendedQuery
+
+A configuration-as-code data fetcher as an alternative to [@TanStack/Query](https://github.com/TanStack/query).
+
+# Yesterday
+
+Most notably<sup>1</sup>, I have previously been employed as a Senior React Consultant for **Airbnb** under **Capgemini Engineering**<sup>2</sup> working first under the taxes reporting org and later under the marketing org. Before that, I was a Developer for the **Public Health Agency of Canada** where I automated critical workflows and designed interactive data visualizations. 
+
+<sup>1. I have held many other roles, [please see my resume for the rest](https://knyazev.io/resume/)</sup> 
+
+<sup>2. Altran before being acquired by Capgemini</sup>
+
+# Tomorrow
+
+My goals for the next year are primarily focused on becoming an expert at All Things Kubernetes and taking the [CKAD certification](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad). My current role is an ideal fit for that goal, and as such, **I am currently not looking for any new roles**.
