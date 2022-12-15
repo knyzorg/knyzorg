@@ -12,15 +12,15 @@ I am a **Front-End Engineer II** at **Amazon Web Services**. On the side, I am c
 
 ### Pixel-Perfect
 
-Cloud-Native clone of Chromatic/Happo/Percy with some fresh ideas of my own.
+Cloud-Native clone of Chromatic/Happo/Percy with some fresh ideas of my own. It is a large undertaking with an expected delivery of late 2023.
 
 ### ExtendedQuery
 
-Configuration-as-code data fetcher with a builder pattern API as an alternative to [@TanStack/Query](https://github.com/TanStack/query).
+Configuration-as-code data fetcher with a builder pattern API as an alternative to [@TanStack/Query](https://github.com/TanStack/query). It is my highest priority side-project, as it has many immediate applications. See my [initial draft](https://user-images.githubusercontent.com/10255546/207960718-b7462a7c-b946-4ad3-8880-835e3c45b7e9.png) for the implementation.
 
 ### TablePost
 
-Pastebin but for dynamic tables. Exercise in working in AWS inspired by [this tweet](https://nitter.net/garybernhardt/status/1602825393194819584).
+Pastebin but for dynamic tables. Exercise in working in AWS Lambda and DynamoDB inspired by [this tweet](https://nitter.net/garybernhardt/status/1602825393194819584).
 
 # Yesterday
 
