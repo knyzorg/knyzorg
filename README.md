@@ -20,7 +20,7 @@ Configuration-as-code data fetcher with a builder pattern API as an alternative 
 
 ### TablePost
 
-Pastebin but for dynamic tables. Exercise in working in AWS Lambda and DynamoDB inspired by [this tweet](https://nitter.net/garybernhardt/status/1602825393194819584).
+Pastebin but for dynamic tables. Exercise in working in AWS Lambda and DynamoDB inspired by [this tweet](https://user-images.githubusercontent.com/10255546/208017069-42df8ad9-e52c-4c85-b584-67d189b05b95.png).
 
 # Yesterday
 
