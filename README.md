@@ -1,6 +1,6 @@
 # Hey 👋
 
-I’m Slava -- a JavaScript Developer by day, and a .NET enthusiast by night.
+I’m Slava -- a JavaScript Developer by day, and a .NET enthusiast by night. Sometimes I answer questions on StackOverflow.
 
 ### Learn more about me: https://knyazev.io 
 
