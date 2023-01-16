@@ -2,6 +2,8 @@
 
 I’m Slava &mdash; a JavaScript Developer by day, and a .NET enthusiast by night. Sometimes I answer questions on StackOverflow.
 
+[![Slava Knyazev StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/4088472?theme=monokai&website=true&location=true)](https://stackoverflow.com/users/4088472/slava-knyazev)
+
 ### Learn more about me: https://knyazev.io 
 
 ### Read my work: https://bbss.dev 
