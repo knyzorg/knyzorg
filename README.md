@@ -2,7 +2,7 @@
 
 I’m Slava &mdash; a JavaScript Developer by day, and a .NET enthusiast by night. 
 
-When time allows for it, I write blog posts. My blog is best known for these two:
+When time allows for it, I write. My blog is best known for these two:
 
 1. [Effective Higher-Order Components](https://www.bbss.dev/posts/effective-hocs/)
 1. [Writing a Recursive Utility Type in TypeScript](https://www.bbss.dev/posts/typescript-recursive-omit/)
