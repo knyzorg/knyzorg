@@ -1,13 +1,22 @@
 # Hey 👋
 
-I’m Slava &mdash; a JavaScript Developer by day, and a .NET enthusiast by night. Sometimes I answer questions on StackOverflow.
+I’m Slava &mdash; a JavaScript Developer by day, and a .NET enthusiast by night. 
 
-[![Slava Knyazev StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/4088472?theme=monokai&website=true&location=true)](https://stackoverflow.com/users/4088472/slava-knyazev)
+## Around The Web
 
-### Learn more about me: https://knyazev.io 
+[![](https://img.shields.io/badge/Website-Knyazev.io-white?logo=internetexplorer&style=for-the-badge&logoColor=white)](https://knyazev.io)
+[![](https://img.shields.io/badge/Blog-BBSS.dev-EE72F1?logo=rss&style=for-the-badge&logoColor=white)](https://bbss.dev)
 
-### Read my work: https://bbss.dev 
+[![](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/slava-knyazev/)
+[![](https://img.shields.io/badge/-StackOverflow-F58025?logo=stackoverflow&style=for-the-badge&logoColor=white)](https://stackoverflow.com/users/4088472/slava-knyazev)
+[![](https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge&logoColor=white)](https://github.com/vezaynk/vezaynk)
 
+<!-- [![Slava Knyazev StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/4088472?theme=monokai&website=true&location=true)](https://stackoverflow.com/users/4088472/slava-knyazev) -->
+
+<!-- ### Learn more about me: https://knyazev.io 
+
+### Read my work: https://bbss.dev  -->
+<!-- 
 # Today
 
 I am a **Front-End Engineer II** at **Amazon Web Services**. On the side, I am currently working on a couple side-projects:
@@ -35,3 +44,4 @@ Most notably<sup>1</sup>, I have previously been employed as a Senior React Cons
 # Tomorrow
 
 My goals for the next year are primarily focused on becoming an expert at All Things Kubernetes and taking the [CKAD certification](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad). My current role is an ideal fit for that goal, and as such, **I am currently not looking for any new roles**.
+ -->
