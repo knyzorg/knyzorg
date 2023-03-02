@@ -2,14 +2,21 @@
 
 I’m Slava &mdash; a JavaScript Developer by day, and a .NET enthusiast by night. 
 
+When time allows for it, I write blog posts. My blog is best known for these two:
+
+1. [Effective Higher-Order Components](https://www.bbss.dev/posts/effective-hocs/)
+1. [Writing a Recursive Utility Type in TypeScript](https://www.bbss.dev/posts/typescript-recursive-omit/)
+
+
 ## Around The Web
 
-[![](https://img.shields.io/badge/Website-Knyazev.io-white?logo=internetexplorer&style=for-the-badge&logoColor=white)](https://knyazev.io)
-[![](https://img.shields.io/badge/Blog-BBSS.dev-EE72F1?logo=rss&style=for-the-badge&logoColor=white)](https://bbss.dev)
+[![Website Knyazev.io](https://img.shields.io/badge/Website-Knyazev.io-white?logo=internetexplorer&style=for-the-badge&logoColor=white)](https://knyazev.io)
+[![Blog BBSS.dev](https://img.shields.io/badge/Blog-BBSS.dev-EE72F1?logo=rss&style=for-the-badge&logoColor=white)](https://bbss.dev)
 
-[![](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/slava-knyazev/)
-[![](https://img.shields.io/badge/-StackOverflow-F58025?logo=stackoverflow&style=for-the-badge&logoColor=white)](https://stackoverflow.com/users/4088472/slava-knyazev)
-[![](https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge&logoColor=white)](https://github.com/vezaynk/vezaynk)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/slava-knyazev/)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?logo=stackoverflow&style=for-the-badge&logoColor=white)](https://stackoverflow.com/users/4088472/slava-knyazev)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge&logoColor=white)](https://github.com/vezaynk/vezaynk)
+
 
 <!-- [![Slava Knyazev StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/4088472?theme=monokai&website=true&location=true)](https://stackoverflow.com/users/4088472/slava-knyazev) -->
 
