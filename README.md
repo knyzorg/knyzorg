@@ -5,7 +5,7 @@ I’m Slava &mdash; a JavaScript Developer by day, and a .NET enthusiast by nigh
 When time allows for it, I write. My blog is best known for these three:
 
 1. [Practical Guide To Not Blocking The Event Loop](https://www.bbss.dev/posts/eventloop/)
-1. [Effective Higher-Order Components](https://www.bbss.dev/posts/effective-hocs/)
+1. [Learn Suspense by Building a Suspense-Enabled Library](https://www.bbss.dev/posts/react-learn-suspense/)
 1. [Writing a Recursive Utility Type in TypeScript](https://www.bbss.dev/posts/typescript-recursive-omit/)
 
 
